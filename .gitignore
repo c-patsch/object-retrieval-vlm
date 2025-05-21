@@ -1,0 +1,21 @@
+# Ignore the cutout directory
+cutout/
+bb_detections/
+captured_images_masked/
+images_det/
+internvl_output/
+internvlOutput_object/
+llava_vicuna/
+llava_vicuna_hoi/
+minigpt4_output/
+minigpt4_output_object/
+MiniGPT-4/
+new_caps/
+vid_example/
+wild_dataset/
+hand_object_detector/
+InternVL/
+models/
+eval_caps_user_study_data_to_files.py
+annotate_new_masks.py
+mobile_sam.pt
